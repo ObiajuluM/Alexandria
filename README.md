@@ -18,7 +18,7 @@ Other possibilities I am working on while improving the existing ones are:
 Yes, all these are possible, plus the fact that literary works published in this manner can be unmodifiable and are by default uncensorable with the aid of properly written smart contracts; this can also be used to directly incentivize the publisher/ artist.
 
 I am currently working on 3 approaches to the managing of books and library infrastructure
-1 and 2 are currently available on this SDK.
+1 and 2 are currently available on this [SDK](https://pypi.org/project/W3Alexandria/).
 
 	1. Off-chain Storage [IPFS] -> Library Contract
 
